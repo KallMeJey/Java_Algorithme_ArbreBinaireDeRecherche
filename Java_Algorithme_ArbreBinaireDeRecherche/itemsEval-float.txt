@@ -1,0 +1,12 @@
+Coca ; 10.0 ; 20.0
+Chips ; 1.0 ; 2.0
+Shorts ; 1.0 ; 24.0
+Chaussures ; 2.0 ; 80.0
+Lampe ; 3.0 ; 35.0
+Sac de couchage ; 4.0 ; 60.0
+Camping gaz ; 1.0 ; 40.0
+Couteau suisse ; 1.0 ; 50.0
+iPhone ; 2.0 ; 200.0
+Mars ; 1.0 ; 3.0
+Tente 2 secondes + ; 10.0 ; 100.0
+Lingot d'or ; 10.0 ; 1000.0
